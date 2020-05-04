@@ -5,5 +5,5 @@
 - LEI UC 
 
 ###### **Made by**
-- Maria Inês Roseiro
-- Diogo Santos Amores
+###### - Maria Inês Roseiro
+###### - Diogo Santos Amores
